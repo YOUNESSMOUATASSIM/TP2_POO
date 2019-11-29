@@ -3,7 +3,11 @@
 
 
 class Complexe
-{
+{   private:
+        float re;
+        float im;
+
+
     public:
         Complexe(float x=0,float y=0);
         //~Complexe();
@@ -13,9 +17,7 @@ class Complexe
 
 
 
-    private:
-        float re;
-        float im;
+
 
 };
 

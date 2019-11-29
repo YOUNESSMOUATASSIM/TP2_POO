@@ -3,7 +3,10 @@
 
 
 class Point
-{
+{   private:
+        float x;
+        float y;
+
     public:
         Point(float x=0,float y=0);
       //  ~Point();
@@ -18,9 +21,7 @@ class Point
 
 
 
-    private:
-        float x;
-        float y;
+
 };
 
 #endif // POINT_H
