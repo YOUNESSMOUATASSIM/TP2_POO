@@ -10,3 +10,14 @@
 
 1575034266 h:\c_c++\tp2_poo_ex2\include\point.h
 
+1575036568 source:h:\c_c++\tp2_poo\tp2_poo_ex2\main.cpp
+	<iostream>
+	"Point.h"
+
+1575034266 h:\c_c++\tp2_poo\tp2_poo_ex2\include\point.h
+
+1575036451 source:h:\c_c++\tp2_poo\tp2_poo_ex2\src\point.cpp
+	"Point.h"
+	<iostream>
+	<math.h>
+

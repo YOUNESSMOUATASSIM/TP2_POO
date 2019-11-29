@@ -9,3 +9,14 @@
 
 1575024612 h:\c_c++\tp2_poo_ex1\include\complexe.h
 
+1575024863 source:h:\c_c++\tp2_poo\tp2_poo_ex1\main.cpp
+	<iostream>
+	"Complexe.h"
+
+1575024612 h:\c_c++\tp2_poo\tp2_poo_ex1\include\complexe.h
+
+1575024929 source:h:\c_c++\tp2_poo\tp2_poo_ex1\src\complexe.cpp
+	"Complexe.h"
+	<iostream>
+	<string>
+

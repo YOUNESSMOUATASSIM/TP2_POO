@@ -4,11 +4,14 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
 
     Complexe c;
 
-    c.afficher(c.add(c));
+    c.afficher(c);
+
+    Complexe c1(1,2);
+
+    c1.afficher(c1.add(c1));
 
     return 0;
 }
